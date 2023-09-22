@@ -21,21 +21,21 @@
 
 //Задача 4 . Напишите программу , которая на вход принимает три числа и 
 //выдает максимальное из этих чисел
- Console.WriteLine( " Input first number ");
-int n1 = Convert.ToInt32( Console.ReadLine()) ;
-Console.WriteLine( " Input second number ") ;
-int n2 = Convert.ToInt32( Console.ReadLine()) ;
-Console.WriteLine( " Input third number ") ;
-int n3 = Convert.ToInt32( Console.ReadLine()) ;
-if ( n1 > n2 ) {
-     if ( n1 > n3 ) {
-             }             Console.WriteLine($" { n1} ") ;
-if ( n2 > n1 ) {
-     if ( n2 > n3 ) {
-   }   Console.WriteLine($" { n2} ") ;   
-if ( n3 > n2 ) { 
-   }   Console.WriteLine($" { n3} ") ;
-}}
+//  Console.WriteLine( " Input first number ");
+// int n1 = Convert.ToInt32( Console.ReadLine()) ;
+// Console.WriteLine( " Input second number ") ;
+// int n2 = Convert.ToInt32( Console.ReadLine()) ;
+// Console.WriteLine( " Input third number ") ;
+// int n3 = Convert.ToInt32( Console.ReadLine()) ;
+// if ( n1 > n2 ) {
+//      if ( n1 > n3 ) {
+//              }             Console.WriteLine($" { n1} ") ;
+// if ( n2 > n1 ) {
+//      if ( n2 > n3 ) {
+//    }   Console.WriteLine($" { n2} ") ;   
+// if ( n3 > n2 ) { 
+//    }   Console.WriteLine($" { n3} ") ;
+// }}
 // Задача 8 . Напишите прогоамму , которая на вход принимает число N ,
 // а на выходе показывает все четные числа от 1 до N 
 
