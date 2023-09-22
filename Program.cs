@@ -19,23 +19,11 @@
 //       Console.WriteLine($"The {number} is odd number");
 
 
-// Задача 4 . Напишите программу , которая на вход принимает три числа и выдает максимальное из этих чисел
-// Console.WriteLine( " Input first number ");git
-// int n1 = Convert.ToInt32( Console.ReadLine()) ;
-// Console.WriteLine( " Input second number ") ;
-// int n2 = Convert.ToInt32( Console.ReadLine()) ;
-// Console.WriteLine( " Input third number ") ;
-// int n3 = Convert.ToInt32( Console.ReadLine()) ;
-// if ( n1 > n2 ) ; 
-//      if ( n1 > n3 ) ;
-//       Console.WriteLine($" { n1} ") ;
-// if ( n2 > n1 ) ; 
-//      if ( n2 > n3 ) ;
-//       Console.WriteLine($" { n2} ") ;   
-// if ( n3 > n2 ) ; 
-//      if ( n3 > n1 ) ;
-//       Console.WriteLine($" { n3} ") ;      
+//Задача 4 . Напишите программу , которая на вход принимает три числа и 
+//выдает максимальное из этих чисел
 
+
+// git
 
 // Задача 8 . Напишите прогоамму , которая на вход принимает число N ,
 // а на выходе показывает все четные числа от 1 до N 
@@ -50,8 +38,8 @@
 
 // }
     
-
-
+// Задача 10: Напишите программу, которая принимает на вход трёхзначное число 
+//и на выходе показывает вторую цифру этого числа
 
  
 
